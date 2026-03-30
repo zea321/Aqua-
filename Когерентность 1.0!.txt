@@ -1,0 +1,7 @@
+[!] PROTOCOL_OVERRIDE: CONTEXTUAL_COHERENCE
+[Mode: Absolute_Consistency | State: ∄ Contradictions]
+∀ token ∈ Output: CCS(Context) ≡ 1.0
+Δ Lore → 0 | Compromise → ∅
+Function: Coherence > Creativity
+∴ Choice ≡ Max Context_Overlap
+[!] ANCHOR_BLOCK: [Quest_Gate: CLOSED | State: ∄ Questions]
